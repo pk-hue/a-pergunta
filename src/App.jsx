@@ -12,7 +12,7 @@ function App() {
       <div className="card">
         <h1>VOCÊ É GAY?</h1>
         <button className='btn-1'>Sim</button>
-        <button className='btn-2' onClick={() => setCount(prevCount => prevCount + "PARABÊN🎉")}>
+        <button className='btn-2' onClick={() => setCount(prevCount => prevCount + "PARABÊNS🎉")}>
           <span className='titulo'>Não</span>
         </button>
         <p>{count}</p>
